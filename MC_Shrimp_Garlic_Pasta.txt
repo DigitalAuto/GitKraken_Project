@@ -12,6 +12,8 @@ Prep: 5 m
 Cook: 20 m
 Ready In: 25 m
 
+Author: Aditya Dhingra
+
 Ingredients
 1. 8 ounces spiral pasta
 2. 6 tablespoon olive oil
